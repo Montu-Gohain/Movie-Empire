@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filmpire/static/css/main.3b7c65f2.css",
+    "main.js": "/filmpire/static/js/main.bfc3f882.js",
+    "index.html": "/filmpire/index.html",
+    "main.3b7c65f2.css.map": "/filmpire/static/css/main.3b7c65f2.css.map",
+    "main.bfc3f882.js.map": "/filmpire/static/js/main.bfc3f882.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b7c65f2.css",
+    "static/js/main.bfc3f882.js"
+  ]
+}
